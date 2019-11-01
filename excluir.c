@@ -2,10 +2,6 @@
 
 #include <stdio.h>         // entrada e saída padrão: printf, scanf
 #include <stdlib.h>		   // exit, malloc, system
-/***********************************************/ 
-/* Definição do Registro e da Estrutura        */
-/* Profa Daniela Bagatini                      */
-/***********************************************/ 
 typedef struct{            // registro pessoa
        int  diamante;
        char string[1000];
